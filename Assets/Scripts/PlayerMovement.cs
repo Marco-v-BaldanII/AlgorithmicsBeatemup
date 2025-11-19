@@ -18,15 +18,16 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-
+        // Read Input
         float horizontalInput = Input.GetAxisRaw("Horizontal");
         float verticalInput = Input.GetAxisRaw("Vertical");
 
+        // Move based on Input
         Vector2 movementVector = new Vector2(horizontalInput, verticalInput).normalized;
         rigid.linearVelocity = movementVector * moveSpeed;
 
         HandleDirection(horizontalInput, movementVector);
-        HandleDepthSorting();
+        //HandleDepthSorting();
     }
 
 

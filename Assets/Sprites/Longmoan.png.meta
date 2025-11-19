@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: f06f629a2d444e84da87c10bc246c679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4670928951279449673
+    second: Longmoan_0
+  - first:
+      213: -3261602729886670180
+    second: Longmoan_1
+  - first:
+      213: -6093102773930328496
+    second: Longmoan_2
+  - first:
+      213: 1117043464356334891
+    second: Longmoan_3
+  - first:
+      213: -1311617487832596398
+    second: Longmoan_4
+  - first:
+      213: 6341106876073886566
+    second: Longmoan_5
+  - first:
+      213: 7011582980364410811
+    second: Longmoan_6
+  - first:
+      213: 3127499476417562647
+    second: Longmoan_7
+  - first:
+      213: -4388963590312196122
+    second: Longmoan_8
+  - first:
+      213: 3568951581197774254
+    second: Longmoan_9
+  - first:
+      213: 5335745642198258359
+    second: Longmoan_10
+  - first:
+      213: 8686053146022132957
+    second: Longmoan_11
+  - first:
+      213: -9070090944168311791
+    second: Longmoan_12
+  - first:
+      213: -9067810916448286262
+    second: Longmoan_13
+  - first:
+      213: -7767596870367268403
+    second: Longmoan_14
+  - first:
+      213: 1965939452786732414
+    second: Longmoan_15
+  - first:
+      213: -5496481271806147681
+    second: Longmoan_16
+  - first:
+      213: 6561602183682433520
+    second: Longmoan_17
+  - first:
+      213: 4448738486911317308
+    second: Longmoan_18
+  - first:
+      213: 7635623629783615128
+    second: Longmoan_19
+  - first:
+      213: -7952544741173978238
+    second: Longmoan_20
+  - first:
+      213: -5517003572516340506
+    second: Longmoan_21
+  - first:
+      213: 254627711680760565
+    second: Longmoan_22
+  - first:
+      213: 8813944309827214862
+    second: Longmoan_23
+  - first:
+      213: 2037986723765771920
+    second: Longmoan_24
+  - first:
+      213: 6365897150266502054
+    second: Longmoan_25
+  - first:
+      213: -283984955622408561
+    second: Longmoan_26
+  - first:
+      213: -2688564787241985708
+    second: Longmoan_27
+  - first:
+      213: -9147310316076047704
+    second: Longmoan_28
+  - first:
+      213: -1618133007841499906
+    second: Longmoan_29
+  - first:
+      213: -7652735743205025976
+    second: Longmoan_30
+  - first:
+      213: 1828591276146916069
+    second: Longmoan_31
+  - first:
+      213: 9077045355674832010
+    second: Longmoan_32
+  - first:
+      213: 94275625710179498
+    second: Longmoan_33
+  - first:
+      213: 2753445223439950014
+    second: Longmoan_34
+  - first:
+      213: 1099799124746376961
+    second: Longmoan_35
+  - first:
+      213: 2296448561712581531
+    second: Longmoan_36
+  - first:
+      213: 6103403654711456794
+    second: Longmoan_37
+  - first:
+      213: -591209809790269355
+    second: Longmoan_38
+  - first:
+      213: 5990912237284189094
+    second: Longmoan_39
+  - first:
+      213: 90879108164191766
+    second: Longmoan_40
+  - first:
+      213: -1002764581910232876
+    second: Longmoan_41
+  - first:
+      213: -5044320727195435622
+    second: Longmoan_42
+  - first:
+      213: 2530693512120344987
+    second: Longmoan_43
+  - first:
+      213: -6133055116552281045
+    second: Longmoan_44
+  - first:
+      213: 3998811809322893909
+    second: Longmoan_45
+  - first:
+      213: 8602387373392483380
+    second: Longmoan_46
+  - first:
+      213: 4075149875052974581
+    second: Longmoan_47
+  - first:
+      213: 1216807944174081972
+    second: Longmoan_48
+  - first:
+      213: -491735713029130059
+    second: Longmoan_49
+  - first:
+      213: -3374314192586873203
+    second: Longmoan_50
+  - first:
+      213: 7542007380156531043
+    second: Longmoan_51
+  - first:
+      213: -5105307555155215156
+    second: Longmoan_52
+  - first:
+      213: 4916516291549827162
+    second: Longmoan_53
+  - first:
+      213: -8875624423259829022
+    second: Longmoan_54
+  - first:
+      213: 3471712125969633476
+    second: Longmoan_55
+  - first:
+      213: -1548146905527573923
+    second: Longmoan_56
+  - first:
+      213: -6676622846225094862
+    second: Longmoan_57
+  - first:
+      213: -352501935890866224
+    second: Longmoan_58
+  - first:
+      213: 900687975416752740
+    second: Longmoan_59
+  - first:
+      213: -3455998993370034186
+    second: Longmoan_60
+  - first:
+      213: 711800061363151561
+    second: Longmoan_61
+  - first:
+      213: 9117918096719606492
+    second: Longmoan_62
+  - first:
+      213: -1949811002042761714
+    second: Longmoan_63
+  - first:
+      213: -6254865124814451295
+    second: Longmoan_64
+  - first:
+      213: -4476731032733567138
+    second: Longmoan_65
+  - first:
+      213: -7155173342062104037
+    second: Longmoan_66
+  - first:
+      213: 1150077871155048929
+    second: Longmoan_67
+  - first:
+      213: 2784093778062942582
+    second: Longmoan_68
+  - first:
+      213: -787106893131747792
+    second: Longmoan_69
+  - first:
+      213: -2824712956588855047
+    second: Longmoan_70
+  - first:
+      213: 7162609912936214175
+    second: Longmoan_71
+  - first:
+      213: -1059769857216788512
+    second: Longmoan_72
+  - first:
+      213: 1180985139593169414
+    second: Longmoan_73
+  - first:
+      213: 6021797154729337672
+    second: Longmoan_74
+  - first:
+      213: 5099698113992045710
+    second: Longmoan_75
+  - first:
+      213: -6115293215892600870
+    second: Longmoan_76
+  - first:
+      213: 8768644911286946262
+    second: Longmoan_77
+  - first:
+      213: 42579088716658526
+    second: Longmoan_78
+  - first:
+      213: -9201858105366273716
+    second: Longmoan_79
+  - first:
+      213: -7092775612745010765
+    second: Longmoan_80
+  - first:
+      213: 6458040359797512738
+    second: Longmoan_81
+  - first:
+      213: 2239988588505918268
+    second: Longmoan_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Longmoan_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 509
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9467910322972d040800000000000000
+      internalID: 4670928951279449673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 509
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9229ae09957cb2d0800000000000000
+      internalID: -3261602729886670180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 509
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e7feb4f43f07ba0800000000000000
+      internalID: -6093102773930328496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 509
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d81abcc19808f00800000000000000
+      internalID: 1117043464356334891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 509
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2504c8418d23ccde0800000000000000
+      internalID: -1311617487832596398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 509
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663cb2f6b13200850800000000000000
+      internalID: 6341106876073886566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 509
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9bc952952e4160800000000000000
+      internalID: 7011582980364410811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 509
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c61f143c176b20800000000000000
+      internalID: 3127499476417562647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 510
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7815b4ed44713c0800000000000000
+      internalID: -4388963590312196122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 510
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadacd1dd86778130800000000000000
+      internalID: 3568951581197774254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 510
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d01f34606c0a40800000000000000
+      internalID: 5335745642198258359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 510
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc30dcc05f0b8870800000000000000
+      internalID: 8686053146022132957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 510
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1144c587750902280800000000000000
+      internalID: -9070090944168311791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_13
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 510
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c0bac30aa82280800000000000000
+      internalID: -9067810916448286262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_14
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 507
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1b2570dc3f33490800000000000000
+      internalID: -7767596870367268403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 507
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d674d248b684b10800000000000000
+      internalID: 1965939452786732414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 507
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f934867a76398b3b0800000000000000
+      internalID: -5496481271806147681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 507
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a1d3db6e7f0b50800000000000000
+      internalID: 6561602183682433520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_18
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 507
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3535fa55181dbd30800000000000000
+      internalID: 4448738486911317308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_19
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 507
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896c4db6c3f27f960800000000000000
+      internalID: 7635623629783615128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_20
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 507
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b9ce931b2e2a190800000000000000
+      internalID: -7952544741173978238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 403
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3a9b2b7aaf63b0800000000000000
+      internalID: -5517003572516340506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 403
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac3b00e8e988300800000000000000
+      internalID: 254627711680760565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 403
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e9359c6ab615a70800000000000000
+      internalID: 8813944309827214862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 403
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5507a022684c10800000000000000
+      internalID: 2037986723765771920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 403
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab6e4eeab5385850800000000000000
+      internalID: 6365897150266502054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 403
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e329eff251f0cf0800000000000000
+      internalID: -283984955622408561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 403
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45951d4129c40bad0800000000000000
+      internalID: -2688564787241985708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 403
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a265086bb93e0180800000000000000
+      internalID: -9147310316076047704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 403
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4e5444a9c3b89e0800000000000000
+      internalID: -1618133007841499906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 403
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847545233650cc590800000000000000
+      internalID: -7652735743205025976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 403
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea7d1ec316706910800000000000000
+      internalID: 1828591276146916069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 403
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c8b13a8a428fd70800000000000000
+      internalID: 9077045355674832010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 403
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4de6d9e2fee4100800000000000000
+      internalID: 94275625710179498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 403
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb062a3a7d3363620800000000000000
+      internalID: 2753445223439950014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 403
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1071bca1a75434f00800000000000000
+      internalID: 1099799124746376961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bc5ddbccf9edf10800000000000000
+      internalID: 2296448561712581531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 321
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14b5e76945a3b450800000000000000
+      internalID: 6103403654711456794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 320
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55889b37fc99bc7f0800000000000000
+      internalID: -591209809790269355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 319
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a36dd740fef32350800000000000000
+      internalID: 5990912237284189094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61681af311ed24100800000000000000
+      internalID: 90879108164191766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c5e5fce67512f0800000000000000
+      internalID: -1002764581910232876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 227
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d306a4609fef9b0800000000000000
+      internalID: -5044320727195435622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 227
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91a1515754de1320800000000000000
+      internalID: 2530693512120344987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 227
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246206add203eaa0800000000000000
+      internalID: -6133055116552281045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 227
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552045a6722ae7730800000000000000
+      internalID: 3998811809322893909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 227
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345d5b1db1d16770800000000000000
+      internalID: 8602387373392483380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 227
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f192056837dd8830800000000000000
+      internalID: 4075149875052974581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 227
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b79e58d068f2e010800000000000000
+      internalID: 1216807944174081972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 227
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8768d69f00d29f0800000000000000
+      internalID: -491735713029130059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_50
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 227
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ec46ae170c21d0800000000000000
+      internalID: -3374314192586873203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_51
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 227
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361ca93c0c79aa860800000000000000
+      internalID: 7542007380156531043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_52
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 227
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccfad1e3dd4629b0800000000000000
+      internalID: -5105307555155215156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_53
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 227
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509f32b489fa3440800000000000000
+      internalID: 4916516291549827162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_54
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 227
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec01d3bc9273d480800000000000000
+      internalID: -8875624423259829022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_55
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 226
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c016ded8cffd2030800000000000000
+      internalID: 3471712125969633476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_56
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 226
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52a8e38790e38ae0800000000000000
+      internalID: -1548146905527573923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ee7745eed753a0800000000000000
+      internalID: -6676622846225094862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 122
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df56906b59ab1bf0800000000000000
+      internalID: -352501935890866224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 122
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a6e2c01f2ef7c00800000000000000
+      internalID: 900687975416752740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 122
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff4218e933d900d0800000000000000
+      internalID: -3455998993370034186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 122
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2e6a07262d0e900800000000000000
+      internalID: 711800061363151561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_62
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 122
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2f31e333a598e70800000000000000
+      internalID: 9117918096719606492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 122
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eb7146931e0f4e0800000000000000
+      internalID: -1949811002042761714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 122
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad84750f414239a0800000000000000
+      internalID: -6254865124814451295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 122
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57b2fe28d47fd1c0800000000000000
+      internalID: -4476731032733567138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_66
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 122
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123b0051c7b3bc90800000000000000
+      internalID: -7155173342062104037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 121
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1fb3efab5e5ff00800000000000000
+      internalID: 1150077871155048929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_68
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 121
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67121d65a8613a620800000000000000
+      internalID: 2784093778062942582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_69
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 121
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eee927372a315f0800000000000000
+      internalID: -787106893131747792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_70
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 121
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f31e288a9cc8d0800000000000000
+      internalID: -2824712956588855047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_71
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 121
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e214544c3b66360800000000000000
+      internalID: 7162609912936214175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e74de40ee0fa41f0800000000000000
+      internalID: -1059769857216788512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a47723ab3b36010800000000000000
+      internalID: 1180985139593169414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843a91d7b98b19350800000000000000
+      internalID: 6021797154729337672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 34
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84b9325a64c5c640800000000000000
+      internalID: 5099698113992045710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78d59683d122ba0800000000000000
+      internalID: -6115293215892600870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 34
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d98bcaa61c70b970800000000000000
+      internalID: 8768644911286946262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_78
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f0d1a475479000800000000000000
+      internalID: 42579088716658526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_79
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 34
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4128148ece6c4080800000000000000
+      internalID: -9201858105366273716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_80
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 34
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b7cac826619d90800000000000000
+      internalID: -7092775612745010765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_81
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 33
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22addd6bd719f9950800000000000000
+      internalID: 6458040359797512738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longmoan_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 33
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be2d6d0c9061f10800000000000000
+      internalID: 2239988588505918268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Longmoan_0: 4670928951279449673
+      Longmoan_1: -3261602729886670180
+      Longmoan_10: 5335745642198258359
+      Longmoan_11: 8686053146022132957
+      Longmoan_12: -9070090944168311791
+      Longmoan_13: -9067810916448286262
+      Longmoan_14: -7767596870367268403
+      Longmoan_15: 1965939452786732414
+      Longmoan_16: -5496481271806147681
+      Longmoan_17: 6561602183682433520
+      Longmoan_18: 4448738486911317308
+      Longmoan_19: 7635623629783615128
+      Longmoan_2: -6093102773930328496
+      Longmoan_20: -7952544741173978238
+      Longmoan_21: -5517003572516340506
+      Longmoan_22: 254627711680760565
+      Longmoan_23: 8813944309827214862
+      Longmoan_24: 2037986723765771920
+      Longmoan_25: 6365897150266502054
+      Longmoan_26: -283984955622408561
+      Longmoan_27: -2688564787241985708
+      Longmoan_28: -9147310316076047704
+      Longmoan_29: -1618133007841499906
+      Longmoan_3: 1117043464356334891
+      Longmoan_30: -7652735743205025976
+      Longmoan_31: 1828591276146916069
+      Longmoan_32: 9077045355674832010
+      Longmoan_33: 94275625710179498
+      Longmoan_34: 2753445223439950014
+      Longmoan_35: 1099799124746376961
+      Longmoan_36: 2296448561712581531
+      Longmoan_37: 6103403654711456794
+      Longmoan_38: -591209809790269355
+      Longmoan_39: 5990912237284189094
+      Longmoan_4: -1311617487832596398
+      Longmoan_40: 90879108164191766
+      Longmoan_41: -1002764581910232876
+      Longmoan_42: -5044320727195435622
+      Longmoan_43: 2530693512120344987
+      Longmoan_44: -6133055116552281045
+      Longmoan_45: 3998811809322893909
+      Longmoan_46: 8602387373392483380
+      Longmoan_47: 4075149875052974581
+      Longmoan_48: 1216807944174081972
+      Longmoan_49: -491735713029130059
+      Longmoan_5: 6341106876073886566
+      Longmoan_50: -3374314192586873203
+      Longmoan_51: 7542007380156531043
+      Longmoan_52: -5105307555155215156
+      Longmoan_53: 4916516291549827162
+      Longmoan_54: -8875624423259829022
+      Longmoan_55: 3471712125969633476
+      Longmoan_56: -1548146905527573923
+      Longmoan_57: -6676622846225094862
+      Longmoan_58: -352501935890866224
+      Longmoan_59: 900687975416752740
+      Longmoan_6: 7011582980364410811
+      Longmoan_60: -3455998993370034186
+      Longmoan_61: 711800061363151561
+      Longmoan_62: 9117918096719606492
+      Longmoan_63: -1949811002042761714
+      Longmoan_64: -6254865124814451295
+      Longmoan_65: -4476731032733567138
+      Longmoan_66: -7155173342062104037
+      Longmoan_67: 1150077871155048929
+      Longmoan_68: 2784093778062942582
+      Longmoan_69: -787106893131747792
+      Longmoan_7: 3127499476417562647
+      Longmoan_70: -2824712956588855047
+      Longmoan_71: 7162609912936214175
+      Longmoan_72: -1059769857216788512
+      Longmoan_73: 1180985139593169414
+      Longmoan_74: 6021797154729337672
+      Longmoan_75: 5099698113992045710
+      Longmoan_76: -6115293215892600870
+      Longmoan_77: 8768644911286946262
+      Longmoan_78: 42579088716658526
+      Longmoan_79: -9201858105366273716
+      Longmoan_8: -4388963590312196122
+      Longmoan_80: -7092775612745010765
+      Longmoan_81: 6458040359797512738
+      Longmoan_82: 2239988588505918268
+      Longmoan_9: 3568951581197774254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
