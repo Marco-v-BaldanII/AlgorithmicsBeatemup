@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 7f3a3ae393fd0e94fbbb2bdab3e10d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5207392600968879559
+    second: GiliusThunderheadFixed_0
+  - first:
+      213: -2231256075590687525
+    second: GiliusThunderheadFixed_1
+  - first:
+      213: 8878273962720275868
+    second: GiliusThunderheadFixed_2
+  - first:
+      213: 1770728793579105698
+    second: GiliusThunderheadFixed_3
+  - first:
+      213: 3175206971254480419
+    second: GiliusThunderheadFixed_4
+  - first:
+      213: -4940553786970072770
+    second: GiliusThunderheadFixed_5
+  - first:
+      213: -315870466070744371
+    second: GiliusThunderheadFixed_6
+  - first:
+      213: -5467713409438369132
+    second: GiliusThunderheadFixed_7
+  - first:
+      213: -6516174808190508924
+    second: GiliusThunderheadFixed_8
+  - first:
+      213: 6907320941967280270
+    second: GiliusThunderheadFixed_9
+  - first:
+      213: -6726334090367357907
+    second: GiliusThunderheadFixed_10
+  - first:
+      213: -2211097604554543430
+    second: GiliusThunderheadFixed_11
+  - first:
+      213: 6395502088905844524
+    second: GiliusThunderheadFixed_12
+  - first:
+      213: 2468583829863749496
+    second: GiliusThunderheadFixed_13
+  - first:
+      213: 1889507809276876667
+    second: GiliusThunderheadFixed_14
+  - first:
+      213: -8406389306445201062
+    second: GiliusThunderheadFixed_15
+  - first:
+      213: -7164361919312202545
+    second: GiliusThunderheadFixed_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd5fba0bff544840800000000000000
+      internalID: 5207392600968879559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd42c73cb6cf801e0800000000000000
+      internalID: -2231256075590687525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9daa864127f53b70800000000000000
+      internalID: 8878273962720275868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ada6deb474e29810800000000000000
+      internalID: 1770728793579105698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e97f9dae9901c20800000000000000
+      internalID: 3175206971254480419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3910f5c180af6bb0800000000000000
+      internalID: -4940553786970072770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2f0d21c7dcd9bf0800000000000000
+      internalID: -315870466070744371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 610
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a39c09f97ce14b0800000000000000
+      internalID: -5467713409438369132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480a47f3985e195a0800000000000000
+      internalID: -6516174808190508924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e888397dccbbbdf50800000000000000
+      internalID: 6907320941967280270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cad0f48c247a2a0800000000000000
+      internalID: -6726334090367357907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2fcc817a9051e0800000000000000
+      internalID: -2211097604554543430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c276089d34361c850800000000000000
+      internalID: 6395502088905844524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8775d450aeb224220800000000000000
+      internalID: 2468583829863749496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77564c6751e83a10800000000000000
+      internalID: 1889507809276876667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_15
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 520
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5101b9f671865b80800000000000000
+      internalID: -8406389306445201062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiliusThunderheadFixed_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47f05fac2139c90800000000000000
+      internalID: -7164361919312202545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14dc2a7ef6e836f4b8d79b88f99e28d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GiliusThunderheadFixed_0: 5207392600968879559
+      GiliusThunderheadFixed_1: -2231256075590687525
+      GiliusThunderheadFixed_10: -6726334090367357907
+      GiliusThunderheadFixed_11: -2211097604554543430
+      GiliusThunderheadFixed_12: 6395502088905844524
+      GiliusThunderheadFixed_13: 2468583829863749496
+      GiliusThunderheadFixed_14: 1889507809276876667
+      GiliusThunderheadFixed_15: -8406389306445201062
+      GiliusThunderheadFixed_16: -7164361919312202545
+      GiliusThunderheadFixed_2: 8878273962720275868
+      GiliusThunderheadFixed_3: 1770728793579105698
+      GiliusThunderheadFixed_4: 3175206971254480419
+      GiliusThunderheadFixed_5: -4940553786970072770
+      GiliusThunderheadFixed_6: -315870466070744371
+      GiliusThunderheadFixed_7: -5467713409438369132
+      GiliusThunderheadFixed_8: -6516174808190508924
+      GiliusThunderheadFixed_9: 6907320941967280270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
