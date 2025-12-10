@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    int hp = 2;
+    public int hp = 2;
 
     void ReceiveDamage()
     {
@@ -16,19 +16,21 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        
         if (collision.CompareTag("PlayerAttack"))
         {
             ReceiveDamage();
         }
-
-
     }
 
     void Die()
     {
-
        Destroy(gameObject);
+    }
+
+
+    void AlignYToTarget()
+    {
+
     }
 
 }

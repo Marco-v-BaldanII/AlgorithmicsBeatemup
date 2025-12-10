@@ -5,28 +5,26 @@ public class PlayerCombat : MonoBehaviour
 {
     [Header("Attack Settings")]
     public float attackDamage = 10f;
+
+
     public float attackCooldown = 0.5f; 
     private float nextAttackTime = 0f;
 
     [Header("References")]
-    public Collider2D attackHitbox;
-    private Animator animator;
+    private Animator animator = null;
 
     void Awake()
     {
+        // cache the animator component
         animator = GetComponent<Animator>();
-        // Ensure the attack hitbox is off by default
-        if (attackHitbox != null)
-        {
-            attackHitbox.enabled = false;
-        }
     }
 
     void Update()
     {
         if (Time.time >= nextAttackTime)
         {
-            if (Input.GetButtonDown("Fire1"))
+
+            if (Input.GetButtonDown("Attack"))
             {
                 Attack();
                 nextAttackTime = Time.time + attackCooldown;
@@ -41,17 +39,6 @@ public class PlayerCombat : MonoBehaviour
             animator.SetTrigger("Attack");
         }
 
-        if (attackHitbox != null)
-        {
-            StartCoroutine(HitboxActiveDuration(0.1f));
-        }
-    }
-
-    IEnumerator HitboxActiveDuration(float duration)
-    {
-        attackHitbox.enabled = true; // Activate the hitbox
-        yield return new WaitForSeconds(duration);
-        attackHitbox.enabled = false; // Deactivate the hitbox
     }
 
     //  Handle collision with the attack hitbox

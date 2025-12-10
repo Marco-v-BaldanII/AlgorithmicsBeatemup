@@ -26,12 +26,11 @@ public class PlayerMovement : MonoBehaviour
         Vector2 movementVector = new Vector2(horizontalInput, verticalInput).normalized;
         rigid.linearVelocity = movementVector * moveSpeed;
 
-        HandleDirection(horizontalInput, movementVector);
-        //HandleDepthSorting();
+        HandleDirection(horizontalInput);
     }
 
 
-    private void HandleDirection(float horizontalInput, Vector2 movementVector)
+    private void HandleDirection(float horizontalInput)
     {
         // Flip the sprite to face the direction of movement
         if (horizontalInput > 0)
@@ -41,12 +40,6 @@ public class PlayerMovement : MonoBehaviour
         else if (horizontalInput < 0)
         {
             spriteRenderer.flipX = false;  // Facing Left
-        }
-
-        if (animator != null)
-        {
-            bool isMoving = movementVector.magnitude > 0;
-            animator.SetBool("IsRunning", isMoving);
         }
     }
 
