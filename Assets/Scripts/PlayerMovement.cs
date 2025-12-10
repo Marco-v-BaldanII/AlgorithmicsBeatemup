@@ -35,11 +35,11 @@ public class PlayerMovement : MonoBehaviour
         // Flip the sprite to face the direction of movement
         if (horizontalInput > 0)
         {
-            spriteRenderer.flipX = true; // Facing Right
+            transform.localScale = new Vector2(-1, 1); // Facing Right
         }
         else if (horizontalInput < 0)
         {
-            spriteRenderer.flipX = false;  // Facing Left
+            transform.localScale = new Vector2( 1, 1);  // Facing Left
         }
     }
 

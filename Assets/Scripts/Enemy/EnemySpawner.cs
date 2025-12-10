@@ -12,9 +12,12 @@ public class EnemySpawner : MonoBehaviour
 
     private void Start()
     {
-        player = GameObject.FindAnyObjectByType<PlayerMovement>();
+        player = FindAnyObjectByType<PlayerMovement>();
+
         // Spawn enemy at the beginning, then deactivate (less expensive)
+
         enemy = Instantiate(enemyPrefab, transform.position, Quaternion.identity);
+
         enemy.SetActive(false);
     }
 
@@ -22,7 +25,7 @@ public class EnemySpawner : MonoBehaviour
     {
 
         // Detect when player is close
-        //Vector2.Distance( transform.position , player.transform.position ) < 10
+
         if (Mathf.Abs(transform.position.x - player.transform.position.x ) <= spawnDistance)
         {
             if (enemy != null)
