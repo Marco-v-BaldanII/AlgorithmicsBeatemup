@@ -3,9 +3,9 @@ using UnityEngine;
 
 public enum LongmoanState
 {
-    Idle,
-    Attack,
-    Chase,
+    Idle   = 0,
+    Attack = 1,
+    Chase  = 2,
 }
 
 public class Longmoan : Enemy
@@ -60,7 +60,6 @@ public class Longmoan : Enemy
 
     float attackTimer = 2f;
     float attackRate = 2f;
-
     void HandleAttackState()
     {
         attackTimer -= Time.deltaTime;
@@ -70,9 +69,9 @@ public class Longmoan : Enemy
             animator.SetTrigger("Attack");
             attackTimer = attackRate;
         }
-
+        float distance = Vector2.Distance(transform.position, player.transform.position);
         // If player is far go back to chasing
-        if (Vector2.Distance(transform.position, player.transform.position) > chaseDistance)
+        if (distance > atkDistance)
         {
             currentState = LongmoanState.Chase;
         }
@@ -85,7 +84,7 @@ public class Longmoan : Enemy
         //   .velocity in older versions of Unity
         rigid.linearVelocity = directionToPlayer * chaseSpeed;
 
-        if(Vector2.Distance(transform.position, player.transform.position) <= chaseDistance)
+        if(Vector2.Distance(transform.position, player.transform.position) <= atkDistance)
         {
             currentState = LongmoanState.Attack;
         }
