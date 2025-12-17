@@ -13,7 +13,22 @@ public class Enemy : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    void ReceiveDamage()
+    protected void HandleDirection()
+    {
+        // Flip the sprite to face the direction of movement
+        if (rigid.linearVelocityX > 0)
+        {
+            transform.localScale = new Vector2(1, 1); // Facing Right
+        }
+        else if (rigid.linearVelocityX < 0)
+        {
+            transform.localScale = new Vector2(-1, 1);  // Facing Left
+        }
+
+        animator.SetFloat("YVelocity", rigid.linearVelocityY);
+    }
+
+        void ReceiveDamage()
     {
         hp--;
 

@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 0d8cfa7d6797d134fb240584bce40267
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3338666461671982807
+    second: LongMoanFixedSpriteSheet_0
+  - first:
+      213: 3199380745179221317
+    second: LongMoanFixedSpriteSheet_1
+  - first:
+      213: -5026333001500201262
+    second: LongMoanFixedSpriteSheet_2
+  - first:
+      213: 1203343048263857772
+    second: LongMoanFixedSpriteSheet_3
+  - first:
+      213: -6597602267792434758
+    second: LongMoanFixedSpriteSheet_4
+  - first:
+      213: 1349149199170747961
+    second: LongMoanFixedSpriteSheet_5
+  - first:
+      213: -5112625297231831736
+    second: LongMoanFixedSpriteSheet_6
+  - first:
+      213: -8709925015929524032
+    second: LongMoanFixedSpriteSheet_7
+  - first:
+      213: -1027144429434927234
+    second: LongMoanFixedSpriteSheet_8
+  - first:
+      213: 8725889866151190444
+    second: LongMoanFixedSpriteSheet_9
+  - first:
+      213: 3362864604586515808
+    second: LongMoanFixedSpriteSheet_10
+  - first:
+      213: 1891931398294130225
+    second: LongMoanFixedSpriteSheet_11
+  - first:
+      213: 8699083074463723175
+    second: LongMoanFixedSpriteSheet_12
+  - first:
+      213: 4336448380095629390
+    second: LongMoanFixedSpriteSheet_13
+  - first:
+      213: -5040060621748665134
+    second: LongMoanFixedSpriteSheet_14
+  - first:
+      213: -3269986897896202660
+    second: LongMoanFixedSpriteSheet_15
+  - first:
+      213: 8270747930973978523
+    second: LongMoanFixedSpriteSheet_16
+  - first:
+      213: 3670314424237492454
+    second: LongMoanFixedSpriteSheet_17
+  - first:
+      213: 6877820961169919052
+    second: LongMoanFixedSpriteSheet_18
+  - first:
+      213: 2483338347011170056
+    second: LongMoanFixedSpriteSheet_19
+  - first:
+      213: 5625410857846052083
+    second: LongMoanFixedSpriteSheet_20
+  - first:
+      213: -1282706066659258026
+    second: LongMoanFixedSpriteSheet_21
+  - first:
+      213: -6475227295028419487
+    second: LongMoanFixedSpriteSheet_22
+  - first:
+      213: 3619575949515272142
+    second: LongMoanFixedSpriteSheet_23
+  - first:
+      213: -8836195024040671183
+    second: LongMoanFixedSpriteSheet_24
+  - first:
+      213: 1343409678815368644
+    second: LongMoanFixedSpriteSheet_25
+  - first:
+      213: 2941471573691624134
+    second: LongMoanFixedSpriteSheet_26
+  - first:
+      213: 5625704131240466888
+    second: LongMoanFixedSpriteSheet_27
+  - first:
+      213: 8635619468417723143
+    second: LongMoanFixedSpriteSheet_28
+  - first:
+      213: -2348140072444230713
+    second: LongMoanFixedSpriteSheet_29
+  - first:
+      213: -8496575012465266739
+    second: LongMoanFixedSpriteSheet_30
+  - first:
+      213: -1995185368856295172
+    second: LongMoanFixedSpriteSheet_31
+  - first:
+      213: 6864559800646475652
+    second: LongMoanFixedSpriteSheet_32
+  - first:
+      213: -276146735317959065
+    second: LongMoanFixedSpriteSheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d608773573555e20800000000000000
+      internalID: 3338666461671982807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 490
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dc1a136db766c20800000000000000
+      internalID: 3199380745179221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 490
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee1ca04c0ee3ab0800000000000000
+      internalID: -5026333001500201262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 490
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66f3b6702223b010800000000000000
+      internalID: 1203343048263857772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 490
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab99bea61bb9074a0800000000000000
+      internalID: -6597602267792434758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 490
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e339d6c0429b210800000000000000
+      internalID: 1349149199170747961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d12d8416e4c09b0800000000000000
+      internalID: -5112625297231831736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 392
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07b3d5851202780800000000000000
+      internalID: -8709925015929524032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 392
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77828e5599deb1f0800000000000000
+      internalID: -1027144429434927234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 392
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf5f1df996981970800000000000000
+      internalID: 8725889866151190444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 392
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d1d186a8b4bae20800000000000000
+      internalID: 3362864604586515808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 392
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ecab6359d714a10800000000000000
+      internalID: 1891931398294130225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aee50d67f959b870800000000000000
+      internalID: 8699083074463723175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 294
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480b6283d82e2c30800000000000000
+      internalID: 4336448380095629390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 294
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d48c32619b1e0ab0800000000000000
+      internalID: -5040060621748665134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 294
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e17b2dd3cae92d0800000000000000
+      internalID: -3269986897896202660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 294
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f30844c6997c270800000000000000
+      internalID: 8270747930973978523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 294
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e80baec5839fe230800000000000000
+      internalID: 3670314424237492454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc44359bde27f50800000000000000
+      internalID: 6877820961169919052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 196
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd4beb117967220800000000000000
+      internalID: 2483338347011170056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 196
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f41a89de59711e40800000000000000
+      internalID: 5625410857846052083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 196
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515981e0a9e23ee0800000000000000
+      internalID: -1282706066659258026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 196
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164eae7151f5326a0800000000000000
+      internalID: -6475227295028419487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 196
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa76416215b3230800000000000000
+      internalID: 3619575949515272142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384bf911778f5580800000000000000
+      internalID: -8836195024040671183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 98
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c59c953cffb4a210800000000000000
+      internalID: 1343409678815368644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 98
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6ccacfc432d820800000000000000
+      internalID: 2941471573691624134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 98
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91902e914821e40800000000000000
+      internalID: 5625704131240466888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 98
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b6c7e2722e7d770800000000000000
+      internalID: 8635619468417723143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 98
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c30a1b8b0bb96fd0800000000000000
+      internalID: -2348140072444230713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf2c8efa0a161a80800000000000000
+      internalID: -8496575012465266739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8834c5a7daf44e0800000000000000
+      internalID: -1995185368856295172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f95f8c4c0d34f50800000000000000
+      internalID: 6864559800646475652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMoanFixedSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3d7fd10eea2cf0800000000000000
+      internalID: -276146735317959065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62edc1ebced67fa44bca430834789f73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LongMoanFixedSpriteSheet_0: 3338666461671982807
+      LongMoanFixedSpriteSheet_1: 3199380745179221317
+      LongMoanFixedSpriteSheet_10: 3362864604586515808
+      LongMoanFixedSpriteSheet_11: 1891931398294130225
+      LongMoanFixedSpriteSheet_12: 8699083074463723175
+      LongMoanFixedSpriteSheet_13: 4336448380095629390
+      LongMoanFixedSpriteSheet_14: -5040060621748665134
+      LongMoanFixedSpriteSheet_15: -3269986897896202660
+      LongMoanFixedSpriteSheet_16: 8270747930973978523
+      LongMoanFixedSpriteSheet_17: 3670314424237492454
+      LongMoanFixedSpriteSheet_18: 6877820961169919052
+      LongMoanFixedSpriteSheet_19: 2483338347011170056
+      LongMoanFixedSpriteSheet_2: -5026333001500201262
+      LongMoanFixedSpriteSheet_20: 5625410857846052083
+      LongMoanFixedSpriteSheet_21: -1282706066659258026
+      LongMoanFixedSpriteSheet_22: -6475227295028419487
+      LongMoanFixedSpriteSheet_23: 3619575949515272142
+      LongMoanFixedSpriteSheet_24: -8836195024040671183
+      LongMoanFixedSpriteSheet_25: 1343409678815368644
+      LongMoanFixedSpriteSheet_26: 2941471573691624134
+      LongMoanFixedSpriteSheet_27: 5625704131240466888
+      LongMoanFixedSpriteSheet_28: 8635619468417723143
+      LongMoanFixedSpriteSheet_29: -2348140072444230713
+      LongMoanFixedSpriteSheet_3: 1203343048263857772
+      LongMoanFixedSpriteSheet_30: -8496575012465266739
+      LongMoanFixedSpriteSheet_31: -1995185368856295172
+      LongMoanFixedSpriteSheet_32: 6864559800646475652
+      LongMoanFixedSpriteSheet_33: -276146735317959065
+      LongMoanFixedSpriteSheet_4: -6597602267792434758
+      LongMoanFixedSpriteSheet_5: 1349149199170747961
+      LongMoanFixedSpriteSheet_6: -5112625297231831736
+      LongMoanFixedSpriteSheet_7: -8709925015929524032
+      LongMoanFixedSpriteSheet_8: -1027144429434927234
+      LongMoanFixedSpriteSheet_9: 8725889866151190444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

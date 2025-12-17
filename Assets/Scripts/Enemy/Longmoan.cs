@@ -27,6 +27,7 @@ public class Longmoan : Enemy
         base.Awake(); // Call enemy awake method
     }
 
+
     private void Update()
     {
         switch (currentState)
@@ -41,6 +42,8 @@ public class Longmoan : Enemy
                 HandleChaseState();
                 break;
         }
+
+        HandleDirection();
     }
 
     void HandleIdleState()
@@ -55,9 +58,18 @@ public class Longmoan : Enemy
 
     }
 
+    float attackTimer = 2f;
+    float attackRate = 2f;
+
     void HandleAttackState()
     {
-        animator.SetTrigger("Attack");
+        attackTimer -= Time.deltaTime;
+
+        if (attackTimer < 0f)
+        {
+            animator.SetTrigger("Attack");
+            attackTimer = attackRate;
+        }
 
         // If player is far go back to chasing
         if (Vector2.Distance(transform.position, player.transform.position) > chaseDistance)
