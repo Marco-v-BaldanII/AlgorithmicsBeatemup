@@ -12,7 +12,7 @@ public class Longmoan : Enemy
 {
 
     public PlayerMovement player;
-    
+
     private LongmoanState currentState = LongmoanState.Idle;
 
     public float chaseDistance = 7f;
@@ -69,6 +69,7 @@ public class Longmoan : Enemy
             animator.SetTrigger("Attack");
             attackTimer = attackRate;
         }
+
         float distance = Vector2.Distance(transform.position, player.transform.position);
         // If player is far go back to chasing
         if (distance > atkDistance)
@@ -80,8 +81,10 @@ public class Longmoan : Enemy
 
     void HandleChaseState()
     {
+        //                             
         Vector2 directionToPlayer = (player.transform.position - transform.position).normalized;
         //   .velocity in older versions of Unity
+
         rigid.linearVelocity = directionToPlayer * chaseSpeed;
 
         if(Vector2.Distance(transform.position, player.transform.position) <= atkDistance)

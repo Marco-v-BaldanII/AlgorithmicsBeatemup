@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    // All enemies have hp and access to this rigid body
+    // All enemies have hp and access to these variables
     public int hp = 2;
     protected Rigidbody2D rigid;
     protected Animator animator;
