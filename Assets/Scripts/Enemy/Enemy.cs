@@ -5,12 +5,14 @@ public class Enemy : MonoBehaviour
     // All enemies have hp and access to these variables
     public int hp = 2;
     protected Rigidbody2D rigid;
-    protected Animator animator;
+    public Animator animator;
+    public PlayerMovement player;
 
     protected virtual void Awake()
     {
         rigid = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        player = FindObjectOfType<PlayerMovement>();
     }
 
     protected void HandleDirection()
