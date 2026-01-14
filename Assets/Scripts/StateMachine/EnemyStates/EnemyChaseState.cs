@@ -3,7 +3,7 @@ using UnityEngine;
 public class EnemyChaseState : State
 {
     private Enemy enemy;
-    private Rigidbody2D rigid;
+    private Rigidbody2D rigid => enemy.rigid;
 
     public float chaseSpeed = 4f;
     public float atkDistance = 2f;
@@ -11,7 +11,6 @@ public class EnemyChaseState : State
     void Start()
     {
         enemy = GetComponentInParent<Enemy>(); // reference to the enemy
-        rigid = GetComponentInParent<Rigidbody2D>(); // reference to the enemy's Rigidbody2D
     }
 
     public override void LogicUpdate()

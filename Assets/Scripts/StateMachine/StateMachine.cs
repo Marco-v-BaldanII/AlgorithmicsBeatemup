@@ -82,8 +82,7 @@ public class StateMachine : MonoBehaviour
         }
     }
 
-    // Corresponds to: func on_child_transition
-    private void OnChildTransition(State state, string newStateName, Dictionary<string, object> extraArgs)
+    public void OnChildTransition(State state, string newStateName, Dictionary<string, object> extraArgs = null)
     {
         if (state != CurrentState) return;
 

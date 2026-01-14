@@ -1,17 +1,17 @@
 using UnityEngine;
 
 
-public enum LongmoanState
-{
-    Idle   = 0,
-    Attack = 1,
-    Chase  = 2,
-}
+//public enum LongmoanState
+//{
+//    Idle   = 0,
+//    Attack = 1,
+//    Chase  = 2,
+//}
 
 public class Longmoan : Enemy
 {
 
-    private LongmoanState currentState = LongmoanState.Idle;
+    //private LongmoanState currentState = LongmoanState.Idle;
 
     
 
