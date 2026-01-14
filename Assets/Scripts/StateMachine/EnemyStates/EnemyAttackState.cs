@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EnemyAttackState : State
 {
+    #region PlayerStats
 
     private Enemy enemy;
     private Rigidbody2D rigid;
@@ -12,6 +13,7 @@ public class EnemyAttackState : State
     public float atkDistance = 2f;
     float attackTimer = 2f;
     float attackRate = 2f;
+    #endregion
 
     void Start()
     {

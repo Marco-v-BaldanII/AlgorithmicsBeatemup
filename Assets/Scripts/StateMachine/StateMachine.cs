@@ -17,11 +17,9 @@ public class StateMachine : MonoBehaviour
     public State CurrentState { get; private set; }
     private Dictionary<string, State> _states = new Dictionary<string, State>();
 
-    // Events (Signals)
     public event Action<string> OnChangeState;
     public event Action OnInitialize;
 
-    // C# Property for name_current_state
     public string NameCurrentState
     {
         get
@@ -36,8 +34,7 @@ public class StateMachine : MonoBehaviour
 
     private void Start()
     {
-        // 1. Loop through children and add States to dictionary
-        // We iterate specifically over the Transform children to mimic get_children()
+        // Loop through children and add States to dictionary
         foreach (Transform child in transform)
         {
             State stateComponent = child.GetComponent<State>();
@@ -52,11 +49,10 @@ public class StateMachine : MonoBehaviour
             }
         }
 
-        // 2. Initialize the state
+        // Initialize the state
         if (_initialState != null)
         {
-            // Note: FileManager check is commented out as it's custom to your project
-            bool isLoading = false; // Replace with: FileManager.IsLoading() 
+            bool isLoading = false;
 
             if ((CurrentState == null && !isLoading) || _reInitializeOnLoad)
             {
@@ -125,7 +121,7 @@ public class StateMachine : MonoBehaviour
 
     private void OnDestroy()
     {
-        // Clean up events to prevent memory leaks (good practice in C#)
+        // Clean up events to prevent memory leaks
         foreach (var state in _states.Values)
         {
             state.OnTransition -= OnChildTransition;
