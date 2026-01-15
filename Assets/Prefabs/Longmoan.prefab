@@ -470,4 +470,4 @@ MonoBehaviour:
   animator: {fileID: 0}
   player: {fileID: 0}
   chaseSpeed: 4
-  atkDistance: 2
+  atkDistance: 2.5
