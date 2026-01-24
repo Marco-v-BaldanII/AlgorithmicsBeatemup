@@ -40,13 +40,13 @@ public class EnemyHitState : State
 
         if (hitMode == "knockback")
         {
-            // 1. Calculate Direction (Away from player)
+            // Calculate Direction (Away from player)
             pushDirection = (transform.position - enemy.player.transform.position).normalized;
 
-            // 2. Set Initial Velocities
+            // Set Initial Velocities
             verticalVelocity = initialJumpForce; // Launch UP (Fake Z)
             rigid.linearVelocity = pushDirection * slideSpeed; // Slide BACK (Ground)
-
+            print("Hit enemy velocity is " + rigid.linearVelocity.ToString());
             isAirborne = true;
 
             // Trigger Animation
@@ -70,19 +70,18 @@ public class EnemyHitState : State
 
     private void HandleKnockbackPhysics()
     {
-        // --- 1. Handle Fake Height (The Arc) ---
+        // Handle Fake Height (The Arc)
         verticalVelocity -= gravity * Time.deltaTime; // Apply fake gravity
         currentHeight += verticalVelocity * Time.deltaTime;
 
         // Apply to Sprite only (not the Collider/Rigidbody!)
-        // We add the height to the Y offset
         spriteRenderer.transform.localPosition = new Vector3(0, currentHeight, 0);
 
-        // --- 2. Handle Ground Sliding ---
+        // Handle Ground Sliding
         // Apply manual drag to slow down the slide over time
         rigid.linearVelocity = Vector2.Lerp(rigid.linearVelocity, Vector2.zero, groundDrag * Time.deltaTime);
 
-        // --- 3. Check for Landing ---
+        // Check for Landing
         if (currentHeight <= 0)
         {
             Land();

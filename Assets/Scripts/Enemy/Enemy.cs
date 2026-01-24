@@ -34,7 +34,7 @@ public class Enemy : MonoBehaviour
         animator.SetFloat("YVelocity", rigid.linearVelocityY);
     }
 
-    void ReceiveDamage()
+    protected virtual void ReceiveDamage()
     {
         hp--;
 
@@ -44,7 +44,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    void ReceiveKnockBack()
+    protected virtual void ReceiveKnockBack()
     {
         // Transition to Hit State
         animator.SetTrigger("Hit");
