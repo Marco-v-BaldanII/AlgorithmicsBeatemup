@@ -40,7 +40,12 @@ public class Enemy : MonoBehaviour
 
         if (hp <= 0)
         {
-           Die();
+            AudioManager.instance.PlaySfx("EnemyDeath");
+            Die();
+        }
+        else
+        {
+            AudioManager.instance.PlaySfx("EnemyHit");
         }
     }
 

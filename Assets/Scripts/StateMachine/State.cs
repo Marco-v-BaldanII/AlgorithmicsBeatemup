@@ -8,8 +8,8 @@ public abstract class State : MonoBehaviour
     public event Action<State, string, Dictionary<string, object>> OnTransition;
 
     // Virtual methods for the State Machine to call
-    public virtual void Enter(Dictionary<string, object> extraArgs = null) { }
-    public virtual void Exit() { }
+    public virtual void Enter(Dictionary<string, object> extraArgs = null) { print("Entering state " + name); }
+    public virtual void Exit() { print("Exiting state " + name );  }
     public virtual void LogicUpdate() { }  
     public virtual void PhysicsUpdate() { } 
 

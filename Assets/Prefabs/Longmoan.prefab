@@ -276,7 +276,7 @@ Animator:
   m_StabilizeFeet: 0
   m_AnimatePhysics: 0
   m_WarningMessage: 
-  m_HasTransformHierarchy: 1
+  m_HasTransformHierarchy: 0
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 1451649555817048212}
   - component: {fileID: 915067572781573807}
   m_Layer: 0
-  m_Name: EnmyIdleState
+  m_Name: EnemyIdleState
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -444,7 +444,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7455177259072140988
 Transform:
   m_ObjectHideFlags: 0

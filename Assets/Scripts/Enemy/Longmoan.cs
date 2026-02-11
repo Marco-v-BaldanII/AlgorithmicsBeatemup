@@ -27,18 +27,6 @@ public class Longmoan : Enemy
 
     private void Update()
     {
-        //switch (currentState)
-        //{
-        //    case LongmoanState.Idle:
-        //        HandleIdleState();
-        //        break;
-        //    case LongmoanState.Attack:
-        //        HandleAttackState();
-        //        break;
-        //    case LongmoanState.Chase:
-        //        HandleChaseState();
-        //        break;
-        //}
 
         HandleDirection();
     }

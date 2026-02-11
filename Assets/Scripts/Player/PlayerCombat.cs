@@ -36,6 +36,7 @@ public class PlayerCombat : MonoBehaviour
     {
         if (animator != null)
         {
+            AudioManager.instance.PlaySfx("PlayerAtk");
             animator.SetTrigger("Attack");
         }
 
