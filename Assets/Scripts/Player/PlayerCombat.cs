@@ -16,7 +16,7 @@ public class PlayerCombat : MonoBehaviour
     void Awake()
     {
         // cache the animator component
-        animator = GetComponent<Animator>();
+        animator = GetComponentInChildren<Animator>();
     }
 
     void Update()
@@ -36,10 +36,15 @@ public class PlayerCombat : MonoBehaviour
     {
         if (animator != null)
         {
-            AudioManager.instance.PlaySfx("PlayerAtk");
+            Invoke("PlayAtkSfx", 0.5f);
             animator.SetTrigger("Attack");
         }
 
+    }
+
+    void PlayAtkSfx()
+    {
+        AudioManager.instance.PlaySfx("PlayerAtk");
     }
 
     //  Handle collision with the attack hitbox

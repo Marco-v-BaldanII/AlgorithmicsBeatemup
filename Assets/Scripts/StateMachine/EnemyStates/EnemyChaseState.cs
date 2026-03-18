@@ -23,7 +23,6 @@ public class EnemyChaseState : State
         if (Vector2.Distance(transform.position, enemy.player.transform.position) <= atkDistance)
         {
             TransitionTo("EnemyAttackState");
-            //currentState = LongmoanState.Attack;
         }
     }
 

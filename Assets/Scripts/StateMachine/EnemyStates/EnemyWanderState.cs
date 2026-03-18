@@ -1,4 +1,6 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using System.Collections;
 
 public class EnemyWanderState : State
 {
@@ -6,20 +8,24 @@ public class EnemyWanderState : State
     private Rigidbody2D rigid => enemy.rigid;
 
     [Header("Wander Settings")]
-    public float wanderSpeed = 8f;      
-    public float wanderRadius = 8f;    
-    public float waitTime = 1.5f;      
+    public float wanderSpeed = 8f;
+    public float wanderRadius = 8f;
+    public float waitTime = 1.5f;
+
+    public Collider2D levelWalls;
 
     private Vector2 targetPosition;
     private float timer;
     private bool isIdle = true;
+    private bool isPickingTarget = false;
 
     void Start()
     {
         enemy = GetComponentInParent<Enemy>();
         // Initialize timer so he moves immediately or waits a bit
         timer = waitTime;
-        PickNewTarget();
+        StartCoroutine(PickNewTarget());
+
     }
 
     public override void LogicUpdate()
@@ -41,9 +47,10 @@ public class EnemyWanderState : State
         rigid.linearVelocity = Vector2.zero;
 
         timer -= Time.deltaTime;
-        if (timer <= 0f)
+
+        if (timer <= 0f && isPickingTarget == false)
         {
-            PickNewTarget();
+            StartCoroutine(PickNewTarget());
         }
     }
 
@@ -61,12 +68,25 @@ public class EnemyWanderState : State
         }
     }
 
-    void PickNewTarget()
+
+    IEnumerator PickNewTarget()
     {
-        isIdle = false;
+        isPickingTarget = true;
 
         // Pick a random point inside a circle around the CURRENT position
-        Vector2 randomPoint = Random.insideUnitCircle * wanderRadius;
-        targetPosition = (Vector2)transform.position + randomPoint;
+        do
+        {
+            Vector2 randomPoint = Random.insideUnitCircle * wanderRadius;
+            targetPosition = (Vector2)transform.position + randomPoint;
+
+            yield return null; // Wait one frame
+
+        } while (levelWalls.OverlapPoint(targetPosition) == true); // If the target position is inside wall, pick another one
+
+
+
+        isPickingTarget = false;
+        // Change isIdle so that the function HandleMovement is now called
+        isIdle = false;
     }
 }

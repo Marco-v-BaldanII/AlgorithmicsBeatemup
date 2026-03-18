@@ -2,12 +2,21 @@ using UnityEngine;
 
 public class Elf : Enemy
 {
+    public GameObject potionPrefab;
+
     protected override void ReceiveDamage()
     {
         hp--;
+
+        Instantiate(potionPrefab, transform.position, Quaternion.identity);
+
         // We don't delete enemy here, it will delete itself after running off
     }
 
+    private void Update()
+    {
+        HandleDirection();
+    }
 
     protected override void ReceiveKnockBack()
     {

@@ -36,6 +36,8 @@ public class Enemy : MonoBehaviour
 
     protected virtual void ReceiveDamage()
     {
+        AudioManager.instance.PlayMusic("Level3Theme");
+
         hp--;
 
         if (hp <= 0)

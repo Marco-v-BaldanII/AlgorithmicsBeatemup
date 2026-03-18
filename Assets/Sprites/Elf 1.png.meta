@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1be4c7f45a5cbe1409a6adb0535eba39
+guid: 617877b81137a0445a40d375c8040c26
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -269,7 +269,7 @@ TextureImporter:
       name: Elf_6
       rect:
         serializedVersion: 2
-        x: 53
+        x: 0
         y: 0
         width: 53
         height: 70
@@ -291,7 +291,7 @@ TextureImporter:
       name: Elf_7
       rect:
         serializedVersion: 2
-        x: 106
+        x: 53
         y: 0
         width: 53
         height: 70
