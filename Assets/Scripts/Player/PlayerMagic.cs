@@ -9,6 +9,8 @@ public class PlayerMagic : MonoBehaviour
     public KeyCode magicKey = KeyCode.M;
     public int minPotionsForSpecial = 3;
 
+
+
     [Header("VFX & Combat")]
     public GameObject magicPrefab;
     public Transform spawnPoint;
@@ -50,7 +52,7 @@ public class PlayerMagic : MonoBehaviour
 
         if (magicPrefab != null && spawnPoint != null)
         {
-            Instantiate(magicPrefab, spawnPoint.position, Quaternion.identity);
+            Instantiate(magicPrefab, transform.position + new Vector3(-10,0), Quaternion.identity);
         }
 
         // Wait for the attack animation/effect to finish

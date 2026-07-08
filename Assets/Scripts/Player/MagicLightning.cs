@@ -7,12 +7,9 @@ public class MagicProjectile : MonoBehaviour
     public float lifetime = 3f;
     public Vector3 moveDirection = Vector3.right;
 
-    [Header("Combat")]
-    public float damage = 50f;
-
     void Start()
     {
-        // Auto-destroy to prevent memory leaks
+        // Auto-destroy
         Destroy(gameObject, lifetime);
     }
 

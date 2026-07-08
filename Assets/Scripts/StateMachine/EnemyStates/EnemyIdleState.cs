@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyIdleState : State
@@ -26,6 +27,26 @@ public class EnemyIdleState : State
             TransitionTo("EnemyChaseState"); // notify state machine to transition
         }
 
+    }
+
+    public override void Enter(Dictionary<string, object> extraArgs = null)
+    {
+        if (EnemyManager.instance.activeEnemies.Contains(enemy))
+        {
+            EnemyManager.instance.activeEnemies.Remove(enemy); // Cuando el enemigo entra en idle, no esta activo, asi que lo quitamos de la lista
+        }
+
+    }
+
+
+    public override void Exit()
+    {
+        base.Exit();
+        // Cuando el enemigo deja de estar en idle, esta activo, asi que lo añadimos a la lista
+        if (EnemyManager.instance.activeEnemies.Contains(enemy) == false)
+        {
+            EnemyManager.instance.activeEnemies.Add(enemy);
+        }
     }
 
 }

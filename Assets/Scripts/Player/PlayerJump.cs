@@ -11,8 +11,8 @@ public class PlayerJump : MonoBehaviour
     public bool isAirborne { get; private set; } = false;
 
     private float verticalVelocity = 0f;
-    private float currentHeight = 0f;
-    private float currentFloorHeight = 0f;
+    private float currentHeight = 0f; // Refeencia a la altura actual del personaje
+    private float currentFloorHeight = 0f; // Referencia a la altura del suelo del cual hemos slatado, y al que querremos aterrizar
 
     void Awake()
     {
@@ -33,16 +33,16 @@ public class PlayerJump : MonoBehaviour
         {
             HandleAirbornePhysics();
         }
-        //else
-        //{
-        //    CheckWalkOffLedge();
-        //}
     }
 
     private void StartJump()
     {
         isAirborne = true;
         verticalVelocity = jumpForce;
+
+        // Guardamos la altura actual del suelo antes de saltar para saber dónde aterrizar
+        currentFloorHeight = transform.position.y;
+        currentHeight = currentFloorHeight;
 
         if (animator != null)
         {
@@ -61,27 +61,15 @@ public class PlayerJump : MonoBehaviour
         }
 
         // Move the sprite's position up and down based on currentHeight to simulate jump
-        visualRoot.localPosition = new Vector3(0, currentHeight, 0);
-        
+        transform.localPosition = new Vector2(transform.position.x, currentHeight);
+
     }
 
     private void CheckForLanding()
     {
-        float targetFloorHeight = 0f;
-
-        //Collider2D[] hits = Physics2D.OverlapPointAll(transform.position);
-        //foreach (var hit in hits)
-        //{
-        //    PlatformBase platform = hit.GetComponent<PlatformBase>();
-        //    if (platform != null && currentHeight >= platform.surfaceHeight)
-        //    {
-        //        targetFloorHeight = platform.surfaceHeight;
-        //    }
-        //}
-
-        if (currentHeight <= targetFloorHeight)
+        if (currentHeight <= currentFloorHeight)
         {
-            Land(targetFloorHeight);
+            Land(currentFloorHeight);
         }
     }
 
@@ -92,10 +80,8 @@ public class PlayerJump : MonoBehaviour
         verticalVelocity = 0f;
         isAirborne = false;
 
-        if (visualRoot != null)
-        {
-            visualRoot.localPosition = new Vector3(0, currentHeight, 0);
-        }
+        transform.position = new Vector2(transform.position.x, currentHeight);
+        
     }
 
     //private void CheckWalkOffLedge()

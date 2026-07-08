@@ -19,7 +19,7 @@ public class Enemy : MonoBehaviour
         stateMachine = GetComponentInChildren<StateMachine>();
     }
 
-    protected void HandleDirection()
+    protected virtual void HandleDirection()
     {
         // Flip the sprite to face the direction of movement
         if (rigid.linearVelocityX > 0)
@@ -76,6 +76,16 @@ public class Enemy : MonoBehaviour
     void AlignYToTarget()
     {
 
+    }
+
+    private void OnDestroy()
+    {
+        // Por si acaso al destruir el enemigo comprobamos si esta en la lista y lo quitamos,
+        // de lo contrario tener un elemento "null" en la lista puede dar problemas
+        if (EnemyManager.instance.activeEnemies.Contains(this) == true)
+        {
+            EnemyManager.instance.activeEnemies.Remove(this);
+        }
     }
 
 }

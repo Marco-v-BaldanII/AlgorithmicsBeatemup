@@ -10,12 +10,10 @@ public class StateMachine : MonoBehaviour
     [SerializeField] private bool _reInitializeOnLoad = false;
     [SerializeField] private bool _reEnterIfTransitionToSameState = true;
 
-    // Public variable logic
-    public bool IsTurn = false;
 
     // State Management
     public State CurrentState { get; private set; }
-    private Dictionary<string, State> _states = new Dictionary<string, State>();
+    public Dictionary<string, State> _states = new Dictionary<string, State>();
 
     public event Action<string> OnChangeState;
     public event Action OnInitialize;

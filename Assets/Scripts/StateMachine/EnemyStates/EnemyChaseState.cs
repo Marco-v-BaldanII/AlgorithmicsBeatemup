@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyChaseState : State
 {
-    private Enemy enemy;
+    public Enemy enemy;
     private Rigidbody2D rigid => enemy.rigid;
 
     public float chaseSpeed = 4f;

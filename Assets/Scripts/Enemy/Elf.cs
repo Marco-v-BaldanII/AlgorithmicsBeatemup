@@ -1,14 +1,32 @@
+using NUnit.Framework;
 using UnityEngine;
+using System.Collections.Generic;
 
 public class Elf : Enemy
 {
     public GameObject potionPrefab;
 
+
+    List<Potion> potionList = new List<Potion>();
+
+    private void Start()
+    {
+        for (int i = 0; i < hp; ++i)
+        {
+            GameObject potionObject = Instantiate(potionPrefab, transform.position, Quaternion.identity);
+            Potion potion = potionObject.GetComponent<Potion>();
+            potion.gameObject.SetActive(false); // Start with potions inactive
+
+            potionList.Add(potion);
+        }
+    }
+
     protected override void ReceiveDamage()
     {
         hp--;
 
-        Instantiate(potionPrefab, transform.position, Quaternion.identity);
+        potionList[hp].gameObject.SetActive(true);
+        potionList[hp].transform.position = transform.position;
 
         // We don't delete enemy here, it will delete itself after running off
     }

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: b623f2f2191474d409b9501841d0e368
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2763212955282434966
+    second: BadBrotherSpSheet(1)_0
+  - first:
+      213: -4739868383863412211
+    second: BadBrotherSpSheet(1)_1
+  - first:
+      213: 1402593333635930825
+    second: BadBrotherSpSheet(1)_2
+  - first:
+      213: 6779403407465689070
+    second: BadBrotherSpSheet(1)_3
+  - first:
+      213: -827124480082443429
+    second: BadBrotherSpSheet(1)_4
+  - first:
+      213: 2655309038733926543
+    second: BadBrotherSpSheet(1)_5
+  - first:
+      213: -6601523957723862971
+    second: BadBrotherSpSheet(1)_6
+  - first:
+      213: -5047583221123463331
+    second: BadBrotherSpSheet(1)_7
+  - first:
+      213: -1241048644691535306
+    second: BadBrotherSpSheet(1)_8
+  - first:
+      213: -9170300648327520767
+    second: BadBrotherSpSheet(1)_9
+  - first:
+      213: -8471368019486151045
+    second: BadBrotherSpSheet(1)_10
+  - first:
+      213: 6577562794135536643
+    second: BadBrotherSpSheet(1)_11
+  - first:
+      213: -5467729299663752914
+    second: BadBrotherSpSheet(1)_12
+  - first:
+      213: 3889917891315694670
+    second: BadBrotherSpSheet(1)_13
+  - first:
+      213: 1011190868762489509
+    second: BadBrotherSpSheet(1)_14
+  - first:
+      213: 7399082440026784794
+    second: BadBrotherSpSheet(1)_15
+  - first:
+      213: 1895965283258721335
+    second: BadBrotherSpSheet(1)_16
+  - first:
+      213: 5829049036083515253
+    second: BadBrotherSpSheet(1)_17
+  - first:
+      213: 9123643977386191564
+    second: BadBrotherSpSheet(1)_18
+  - first:
+      213: -1145596495085636453
+    second: BadBrotherSpSheet(1)_19
+  - first:
+      213: 8648101176791520895
+    second: BadBrotherSpSheet(1)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6412a1157817a9d0800000000000000
+      internalID: -2763212955282434966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 484
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a67b951da983eb0800000000000000
+      internalID: -4739868383863412211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 484
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca53b7a433077310800000000000000
+      internalID: 1402593333635930825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 484
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefa013fa77451e50800000000000000
+      internalID: 6779403407465689070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 484
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5308abeaa67584f0800000000000000
+      internalID: -827124480082443429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ae96908d89d420800000000000000
+      internalID: 2655309038733926543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 363
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54863a3dfeca264a0800000000000000
+      internalID: -6601523957723862971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 363
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57c6babdc163f9b0800000000000000
+      internalID: -5047583221123463331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 363
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a5e2045d8e6cee0800000000000000
+      internalID: -1241048644691535306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 363
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e57ec852c8cb080800000000000000
+      internalID: -9170300648327520767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e6ce46ba7af6a80800000000000000
+      internalID: -8471368019486151045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 242
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30446480382384b50800000000000000
+      internalID: 6577562794135536643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 242
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21fb85db29be14b0800000000000000
+      internalID: -5467729299663752914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 242
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cfe4566b3cbf530800000000000000
+      internalID: 3889917891315694670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 242
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f4b4dcb8780e00800000000000000
+      internalID: 1011190868762489509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1480a5f642dea660800000000000000
+      internalID: 7399082440026784794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 121
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734eb1f3162df4a10800000000000000
+      internalID: 1895965283258721335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f4716f631f4e050800000000000000
+      internalID: 5829049036083515253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 121
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca6c39bbd1bd9e70800000000000000
+      internalID: 9123643977386191564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 121
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fc7eae060a10f0800000000000000
+      internalID: -1145596495085636453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadBrotherSpSheet(1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76db40633a340870800000000000000
+      internalID: 8648101176791520895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d21d9720460e8f348a98b706d32631d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BadBrotherSpSheet(1)_0: -2763212955282434966
+      BadBrotherSpSheet(1)_1: -4739868383863412211
+      BadBrotherSpSheet(1)_10: -8471368019486151045
+      BadBrotherSpSheet(1)_11: 6577562794135536643
+      BadBrotherSpSheet(1)_12: -5467729299663752914
+      BadBrotherSpSheet(1)_13: 3889917891315694670
+      BadBrotherSpSheet(1)_14: 1011190868762489509
+      BadBrotherSpSheet(1)_15: 7399082440026784794
+      BadBrotherSpSheet(1)_16: 1895965283258721335
+      BadBrotherSpSheet(1)_17: 5829049036083515253
+      BadBrotherSpSheet(1)_18: 9123643977386191564
+      BadBrotherSpSheet(1)_19: -1145596495085636453
+      BadBrotherSpSheet(1)_2: 1402593333635930825
+      BadBrotherSpSheet(1)_20: 8648101176791520895
+      BadBrotherSpSheet(1)_3: 6779403407465689070
+      BadBrotherSpSheet(1)_4: -827124480082443429
+      BadBrotherSpSheet(1)_5: 2655309038733926543
+      BadBrotherSpSheet(1)_6: -6601523957723862971
+      BadBrotherSpSheet(1)_7: -5047583221123463331
+      BadBrotherSpSheet(1)_8: -1241048644691535306
+      BadBrotherSpSheet(1)_9: -9170300648327520767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
